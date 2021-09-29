@@ -1,0 +1,20 @@
+$font-style:'Roboto', sans-serif;
+$secoundary-color: #fbbc05;
+$primary-color: #db4437;
+
+
+.userDetails{
+    .container{
+        background-color: $primary-color;
+        width: 50%;
+        margin: 0 auto;
+        border-radius: 20px;
+        padding: 10px;
+        h1{
+            text-align: center;
+            font-size: 30px;
+            color: white;
+            font-family: $font-style;
+        }
+    }
+}

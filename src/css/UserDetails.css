@@ -1,0 +1,15 @@
+.userDetails .container {
+  background-color: #db4437;
+  width: 50%;
+  margin: 0 auto;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.userDetails .container h1 {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+/*# sourceMappingURL=UserDetails.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAKA,AACI,YADQ,CACR,UAAU,CAAA;EACN,gBAAgB,EALR,OAAO;EAMf,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,MAAM;EACd,aAAa,EAAE,IAAI;EACnB,OAAO,EAAE,IAAI;CAOhB;;AAbL,AAOQ,YAPI,CACR,UAAU,CAMN,EAAE,CAAA;EACE,UAAU,EAAE,MAAM;EAClB,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,KAAK;EACZ,WAAW,EAhBX,QAAQ,EAAE,UAAU;CAiBvB",
+    "sources": [
+        "../components/UserDetails.scss"
+    ],
+    "names": [],
+    "file": "UserDetails.css"
+}
